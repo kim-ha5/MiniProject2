@@ -1,0 +1,11 @@
+project;number of commits;number of authors;max time;min time;number of stars;number of forks;last commit date;LongestGapStart (YYYY-MM);LongestGapEnd (YYYY-MM);LongestGapLength (months);NumCommitsAfterLastGap;NumberOfGapsInTimeline;ActivityPattern
+socr_socrat;2128;89;1750608937;1360882242;40;55;6/22/25;2023-03;2025-05;27;1;6;declining
+bbn-q_qgl;2192;58;1743768332;1355353679;33;12;5/21/26;2022-04;2024-09;30;24;1;irregular
+microsoft_sptag;2067;125;1762308670;1536748972;5000;621;8/28/26;2019-04;2019-04;1;2023;0;cyclical
+allenai_scispacy;1267;63;1759351155;1537825553;2000;260;12/4/25;2025-01;2025-05;5;57;3;declining
+clawpack_pyclaw;2889;85;1759794585;1271061853;187;109;6/25/26;2023-04;2023-08;5;151;1;declining
+isce-framework_isce2;1587;115;1759487644;1547667608;669;312;6/30/26;2023-10;2023-11;2;234;0;declining
+facebookresearch_pytorch3d;1760;283;1762260393;1578624560;10000;1500;9/15/26;;;0;0;0;declining
+mundialis_actinia_core;2537;50;1761914492;1520853595;96;25;9/17/26;2018-08;2018-09;2;2462;0;cyclical
+unidata_netcdf-cxx4;433;37;1755076153;1313607374;152;57;9/24/26;2012-09;2013-07;11;419;10;irregular
+astro-informatics_ssht;17636;941;1762308670;1271061853;12;2;4/1/25;2010-05;2010-05;1;36036;0;declining

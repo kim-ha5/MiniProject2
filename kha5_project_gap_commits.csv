@@ -1,0 +1,464 @@
+pre/post;project_wocid;commit_sha1;author;time;commit message;date;Month
+pre;socr_socrat;1dc56b94355179227e36459c130ce0c79b3f6484;alxndrkalinin <1107762+alxndrkalinin@users.noreply.github.com>;1666392946;"refactor(GetData): better wording of labels
+";2022-10-21 22:55:46;2022-10
+pre;socr_socrat;b4907259efba96d3d47ad28d44de4c5be9fcb991;alxndrkalinin <1107762+alxndrkalinin@users.noreply.github.com>;1666393643;"refactor(charts): expand charts area height to 800px
+";2022-10-21 23:07:23;2022-10
+pre;socr_socrat;09a20a474fc526499b686870d51284da3a2f7738;alxndrkalinin <1107762+alxndrkalinin@users.noreply.github.com>;1666393977;"feat(charts): color-code x axis in box plots
+";2022-10-21 23:12:57;2022-10
+pre;socr_socrat;a27a0d9a1ec820db8e8e95599941450d073b2c68;alxndrkalinin <1107762+alxndrkalinin@users.noreply.github.com>;1666394706;"fix(classifier): update chart schema
+";2022-10-21 23:25:06;2022-10
+pre;socr_socrat;0f37d8f3118b02a598a803a2e21a677fb8473bfb;alxndrkalinin <1107762+alxndrkalinin@users.noreply.github.com>;1668563731;"refactor(charts): WIP larger font size for the paper
+";2022-11-16 01:55:31;2022-11
+pre;socr_socrat;8ad04545678ed9a13fb8d75d8dd46569ea53e8b0;alxndrkalinin <1107762+alxndrkalinin@users.noreply.github.com>;1668563895;"chore: bump version to 0.2.2
+";2022-11-16 01:58:15;2022-11
+pre;socr_socrat;d0b7ab632fb44c328e724585cbdeebfe0095917e;Alexandr Kalinin <1107762+alxndrkalinin@users.noreply.github.com>;1669178596;add new paper reference;2022-11-23 04:43:16;2022-11
+pre;socr_socrat;ff4f9828e30ed9d11d6317df34d88715b60bb419;alxndrkalinin <1107762+alxndrkalinin@users.noreply.github.com>;1675288398;"chore: update About page with new paper reference
+";2023-02-01 21:53:18;2023-02
+pre;socr_socrat;bcd5216c88de036a8b528cd9f83458662bbcd1d4;Alexandr Kalinin <1107762+alxndrkalinin@users.noreply.github.com>;1675288452;"Merge pull request #195 from SOCR/dev
+
+chore: update About page with new paper reference";2023-02-01 21:54:12;2023-02
+pre;socr_socrat;762b2a95d9f4a19ddb63a8ac3b63c99528d48963;Haodong Luo <42688847+LM233@users.noreply.github.com>;1675392819;"Merge 91e91f1f72fd9252226be3b0ed62bcbbeac9661c into ff4f9828e30ed9d11d6317df34d88715b60bb419
+";2023-02-03 02:53:39;2023-02
+post;socr_socrat;9fdd92dac5069358c73665e8eda470c1cbfe56b1;Ivo Dinov <iwaterpolo@gmail.com>;1750608937;Add files via upload;2025-06-22 16:15:37;2025-06
+pre;bbn-q_qgl;299db6cb0a1d574ad885f0d84b2f4fa020cec56d;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1634763928;"fixed exception text for max number of frequencies
+";2021-10-20 21:05:28;2021-10
+pre;bbn-q_qgl;0997617d66b5fead44495268d705d043cb69c018;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1634824839;"Id was not been added to the sequence, fixed it
+";2021-10-21 14:00:39;2021-10
+pre;bbn-q_qgl;1eaec9e1a904b70abab0a57bf7b008f1b3ee55a4;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1634835521;"Fixed typo in comment
+";2021-10-21 16:58:41;2021-10
+pre;bbn-q_qgl;5b11ca359428b1434df8525f3d8f497139c6e8e4;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1634918215;"Fixed undefined variable issue
+";2021-10-22 15:56:55;2021-10
+pre;bbn-q_qgl;7837e0af72d75b6bc3d20d1bc96711bf321f1c97;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1634919757;"Fixed missing phase command
+";2021-10-22 16:22:37;2021-10
+pre;bbn-q_qgl;f543f7a2c860c53afc42b6c989d2be051215f4cd;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1634929235;"Fixed read_sequence_file function to use APS3 nco number convention
+";2021-10-22 19:00:35;2021-10
+pre;bbn-q_qgl;e3c447a69845a25586ab2744f7303d758437bcb2;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1634929361;"Fixed read_sequence_file function to use APS3 nco number convention v2
+";2021-10-22 19:02:41;2021-10
+pre;bbn-q_qgl;802f32500240e4a494d8cbc13c3ff9d32032d66f;ranzani <leonardo.ranzani@gmail.com>;1634929368;"Merge e3c447a69845a25586ab2744f7303d758437bcb2 into 8df9ce5d68dca61c8c057d34a1c08b98eb910a43
+";2021-10-22 19:02:48;2021-10
+pre;bbn-q_qgl;d1bc6e2565de18c7bb0ba0eca391c66f889ab616;ranzani <leonardo.ranzani@gmail.com>;1639509973;"Merge pull request #284 from BBN-Q/fix/IdleGatemod
+
+Fix/idle gatemod";2021-12-14 19:26:13;2021-12
+pre;bbn-q_qgl;257f2b180922ab9ce6549c563c65ea677ebe4a02;Guilhem Ribeill <guilhem.ribeill@gmail.com>;1648173897;"Merge 6485fe1c9430b38ceb6bc623a8cc296f4a869f30 into d1bc6e2565de18c7bb0ba0eca391c66f889ab616
+";2022-03-25 02:04:57;2022-03
+post;bbn-q_qgl;455e472106de16739b74cd452b7f1cd10180e1f9;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1728337985;"fixed np.complex compatibility with new numpy
+";2024-10-07 21:53:05;2024-10
+post;bbn-q_qgl;12454c7ab0b5182c92a1bed869912a9ba0222436;ranzani <leonardo.ranzani@gmail.com>;1732027305;"Merge pull request #285 from BBN-Q/complex_numpy
+
+fixed np.complex compatibility with new numpy";2024-11-19 14:41:45;2024-11
+post;bbn-q_qgl;3031c648cd59b4d739104f61b9d868aa85192ed8;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1732029289;"More numpy.complex to be replaced
+";2024-11-19 15:14:49;2024-11
+post;bbn-q_qgl;f50bc164513beb63305ad8d131bef25d408f98b1;ranzani <leonardo.ranzani@gmail.com>;1732029506;"Merge pull request #286 from BBN-Q/complex_numpy
+
+More numpy.complex to be replaced";2024-11-19 15:18:26;2024-11
+post;bbn-q_qgl;bd33fc6cb3197c2eb15dd92b577acb6c6ffd52f1;lranzani <leonardo.ranzani@raytheon.com>;1732046320;"APS3 mods
+";2024-11-19 19:58:40;2024-11
+post;bbn-q_qgl;a5ad8501dfb40b8bd095b1e6cf2fc049d5dfedf8;Guilhem Ribeill <guilhem.ribeill@gmail.com>;1732228166;"Merge 6485fe1c9430b38ceb6bc623a8cc296f4a869f30 into f50bc164513beb63305ad8d131bef25d408f98b1
+";2024-11-21 22:29:26;2024-11
+post;bbn-q_qgl;b13d69a8faad2e4c0d8e2a29479ab504c3dffa47;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1733241835;"Fixed overflow in APS2 and APS3 drivers in numpy > 2.0
+";2024-12-03 16:03:55;2024-12
+post;bbn-q_qgl;fcd051e955291c729386a689f6766ae83392e931;ranzani <leonardo.ranzani@gmail.com>;1733267105;"Merge pull request #287 from BBN-Q/fix/APS3pattern
+
+APS3 mods";2024-12-03 23:05:05;2024-12
+post;bbn-q_qgl;7ce6ae118f1bb86194157b6618742fcf1f5db38f;ranzani <leonardo.ranzani@gmail.com>;1733267204;"Merge pull request #288 from BBN-Q/fix/np_overflow
+
+Fixed overflow in APS2 and APS3 drivers in numpy > 2.0";2024-12-03 23:06:44;2024-12
+post;bbn-q_qgl;1e93654f105d399f8d7717f383fdeb388583bd54;Leonardo Ranzani <leonardo.ranzani@gmail.com>;1733272765;"fixed numpy retro compatibility
+";2024-12-04 00:39:25;2024-12
+pre;microsoft_sptag;b35fd8dde5eb05f6435d33c6ad0ea64a1216ef34;cheqi <cheqi@microsoft.com>;1547694646;"change kdt distance judgement
+";2019-01-17 03:10:46;2019-01
+pre;microsoft_sptag;d2eadc747c3d6b7bba6dedf5e00f7e3654cd8e75;MaggieQi <chenqi871025@gmail.com>;1547792642;"add copyright for each file (#5)
+
+* remove dup code
+
+* Update Readme.md
+
+* Fix DataSet GNU compile fail bug
+
+* fix GNU Windows align alloc bugs
+
+* add copyright in each file
+
+* fix copy right in dataset
+
+* change kdt distance judgement
+";2019-01-18 06:24:02;2019-01
+pre;microsoft_sptag;c566f36025f7a1986f3d9e27a19658e30573597a;MaggieQi <chenqi871025@gmail.com>;1548038964;"Merge pull request #2 from Microsoft/master
+
+add copyright for each file (#5)";2019-01-21 02:49:24;2019-01
+pre;microsoft_sptag;92c5a8357cd2d6f1f3d9a32a7c0defe31cccd1c9;cheqi <cheqi@microsoft.com>;1550669783;"change code structure and add more wrappers
+";2019-02-20 13:36:23;2019-02
+pre;microsoft_sptag;12ce53b2f495e33958ef24e9f5bfa29b348a2655;cheqi <cheqi@microsoft.com>;1550733943;"Update docs
+";2019-02-21 07:25:43;2019-02
+pre;microsoft_sptag;48759471d8da435bc977f49758d9cb7cf4d18f0a;cheqi <cheqi@microsoft.com>;1551156685;"fix search result
+";2019-02-26 04:51:25;2019-02
+pre;microsoft_sptag;75dd2764353169777ec59304ba6833fc7810fc48;cheqi <cheqi@microsoft.com>;1551944856;"change IndexBuilder to support binary input data
+";2019-03-07 07:47:36;2019-03
+pre;microsoft_sptag;ac7d09a03e9a2749e8e4586a1f9a3b41f732fa72;cheqi <cheqi@microsoft.com>;1551945477;"temp remove java related projects
+";2019-03-07 07:57:57;2019-03
+pre;microsoft_sptag;8aca8d0ac2a752c2905d9dace1a5df3062a7c758;cheqi <cheqi@microsoft.com>;1552548499;"remove javaclient and javacore from the windows build
+";2019-03-14 07:28:19;2019-03
+pre;microsoft_sptag;94d5f8c93bcca77c292c9013d8f230c1bbbdcd9f;MaggieQi <chenqi871025@gmail.com>;1552548513;"Merge 8aca8d0ac2a752c2905d9dace1a5df3062a7c758 into d2eadc747c3d6b7bba6dedf5e00f7e3654cd8e75
+";2019-03-14 07:28:33;2019-03
+post;microsoft_sptag;322ddc6699aefeedcb8a32bbe50aee00bd2b74e4;cheqi <cheqi@microsoft.com>;1557207042;"Fix SetData issue
+";2019-05-07 05:30:42;2019-05
+post;microsoft_sptag;31612d3389573707973e1029beceacb66436feb5;MaggieQi <chenqi871025@gmail.com>;1557214664;"change code structure and try to clean wrapper definitions (#8)
+
+* remove dup code
+
+* Update Readme.md
+
+* Fix DataSet GNU compile fail bug
+
+* fix GNU Windows align alloc bugs
+
+* add copyright in each file
+
+* fix copy right in dataset
+
+* change kdt distance judgement
+
+* change code structure and add more wrappers
+
+* Update docs
+
+* fix search result
+
+* change IndexBuilder to support binary input data
+
+* temp remove java related projects
+
+* remove javaclient and javacore from the windows build
+
+* Fix SetData issue
+";2019-05-07 07:37:44;2019-05
+post;microsoft_sptag;ef19199e775f9648f4cad9a814fc50e2694c574b;cheqi <cheqi@microsoft.com>;1557715482;"Add vector record count and dimension for reuse and debug
+";2019-05-13 02:44:42;2019-05
+post;microsoft_sptag;2eb7c15ce77a01de843cf24ca9960b2691a56c7d;cheqi <cheqi@microsoft.com>;1557718088;"change default parameter definition
+";2019-05-13 03:28:08;2019-05
+post;microsoft_sptag;5fbca4ed68a632d0ef0ea613866648ea0151b460;MaggieQi <chenqi871025@gmail.com>;1557718370;"Merge pull request #3 from microsoft/master
+
+change code structure and try to clean wrapper definitions (#8)";2019-05-13 03:32:50;2019-05
+post;microsoft_sptag;d9de9816f0e14e99d226621bc85bf2ad7b8dea43;cheqi <cheqi@microsoft.com>;1557732426;"add uint8 support
+";2019-05-13 07:27:06;2019-05
+post;microsoft_sptag;a4b238e07d256cc8aa171734e37e3aef896aa9d9;cheqi <cheqi@microsoft.com>;1557732447;"Merge branch 'master' of https://github.com/MaggieQi/SPTAG
+";2019-05-13 07:27:27;2019-05
+post;microsoft_sptag;122f2582ca884fc9825eae582ccec5d366d2f139;MaggieQi <chenqi871025@gmail.com>;1557738889;"change default parameter definition (#12)
+
+* remove dup code
+
+* Update Readme.md
+
+* Fix DataSet GNU compile fail bug
+
+* fix GNU Windows align alloc bugs
+
+* add copyright in each file
+
+* fix copy right in dataset
+
+* change kdt distance judgement
+
+* change code structure and add more wrappers
+
+* Update docs
+
+* fix search result
+
+* change IndexBuilder to support binary input data
+
+* temp remove java related projects
+
+* remove javaclient and javacore from the windows build
+
+* Fix SetData issue
+
+* Add vector record count and dimension for reuse and debug
+
+* change default parameter definition
+
+* add uint8 support
+";2019-05-13 09:14:49;2019-05
+post;microsoft_sptag;95d5a257af19d4c6495e1dc563a60f978d598034;cheqi <cheqi@microsoft.com>;1557833387;"small fix for cosine distance of uint8
+";2019-05-14 11:29:47;2019-05
+post;microsoft_sptag;c32bd18d9e879bc96f9f317a6543cd383007bb5a;Anoop Thomas Mathew <atmb4u@gmail.com>;1557944942;wrong link to the reference for the paper;2019-05-15 18:29:02;2019-05
+pre;allenai_scispacy;2d7f26919ee615c48ab5228cb8470b960d33f3ff;Daniel King <daking@hey.com>;1730007230;"version bump
+";2024-10-27 05:33:50;2024-10
+pre;allenai_scispacy;b5687f53784ec928148150939b7529a971df1ebd;Daniel King <43149077+dakinggg@users.noreply.github.com>;1730007666;"version bump (#530)
+
+";2024-10-27 05:41:06;2024-10
+pre;allenai_scispacy;fd809951092327dbe5ddbcca093ed24401b116c1;Erchi Zhang <erchizhang@brandeis.edu>;1730052060;"update readme to include installation method for Apple M2 chip on python3.9
+";2024-10-27 18:01:00;2024-10
+pre;allenai_scispacy;8fed8efb9aa52543d8cc285dba1ff322a3c91b0d;Erchi(Archer) Zhang <ez806@nyu.edu>;1730094616;"update readme to include installation method for Apple M2 chip on python3.9 (#531)
+
+";2024-10-28 05:50:16;2024-10
+pre;allenai_scispacy;39c95739d9ef470c7732a7c0c557935275a3d975;LINGLONGQIAN <15869023990@163.com>;1731673828;"update installation note with Mac M4
+";2024-11-15 12:30:28;2024-11
+pre;allenai_scispacy;0982f8b3877408103b46efaef82392647f13fabe;Daniel King <43149077+dakinggg@users.noreply.github.com>;1732072305;Update README.md;2024-11-20 03:11:45;2024-11
+pre;allenai_scispacy;ee010b89eef9c5e8f4b16bdfd2249f4ee7677348;Daniel King <43149077+dakinggg@users.noreply.github.com>;1732072643;Update README.md;2024-11-20 03:17:23;2024-11
+pre;allenai_scispacy;2abe00e9621a1f2b97bd9f4fc4a285ac113c8ef7;Daniel King <43149077+dakinggg@users.noreply.github.com>;1732072654;Update README.md;2024-11-20 03:17:34;2024-11
+pre;allenai_scispacy;3df3e48a52563c83e95febad178dbbf7864d7ae8;LinglongQian <38267728+LinglongQian@users.noreply.github.com>;1732399093;"update installation note with Mac M4 (#532)
+
+* update installation note with Mac M4
+
+* Update README.md
+
+* Update README.md
+
+---------
+
+Co-authored-by: Daniel King <43149077+dakinggg@users.noreply.github.com>";2024-11-23 21:58:13;2024-11
+pre;allenai_scispacy;a71bdfaefff2137d43c60d1a8269b9d64e7b0846;Mark Neumann <mark.neumann.1992@gmail.com>;1733124642;"Merge fc12cefb13cb16dc1c502c56866c2ae775d45345 into 3df3e48a52563c83e95febad178dbbf7864d7ae8
+";2024-12-02 07:30:42;2024-12
+post;allenai_scispacy;ce83d00ce98ca59cbec683fca84377cde1336ab4;ivanmilevtues <ivanmilevtues@gmail.com>;1750113684;"Added high-level diagrams
+";2025-06-16 22:41:24;2025-06
+post;allenai_scispacy;39b4ce5dcfaa244ddc40194252bc6bbdb594160b;Charles Tapley Hoyt <cthoyt@gmail.com>;1754136364;"Enable opt-out of TF-IDF annotation index saving
+
+The `create_tfidf_ann_index` function doesn't internally make use of the files it outputs to, so this PR allows for passing an explicit `None`, which opts of out saving the files.
+";2025-08-02 12:06:04;2025-08
+post;allenai_scispacy;28a4d39b228f096e2bb93e140a1a50fb0949209c;Charles Tapley Hoyt <cthoyt@gmail.com>;1754136657;"Minor improvements for OS portability
+";2025-08-02 12:10:57;2025-08
+post;allenai_scispacy;837f86d2732f2f3d22f7be50905d1eb3b69fc629;Charles Tapley Hoyt <cthoyt@gmail.com>;1754136749;"Update candidate_generation.py
+";2025-08-02 12:12:29;2025-08
+post;allenai_scispacy;be3588d66bb730fc9a6a4d5ed4189063b38d37ee;Charles Tapley Hoyt <cthoyt@gmail.com>;1754306469;"Enable creation of entity linker from a knowledge base
+";2025-08-04 11:21:09;2025-08
+post;allenai_scispacy;64a249c34c3950cae5578ba4b8ef46c62234f113;Charles Tapley Hoyt <cthoyt@gmail.com>;1754340203;"Update scispacy/candidate_generation.py
+
+Co-authored-by: Daniel King <43149077+dakinggg@users.noreply.github.com>";2025-08-04 20:43:23;2025-08
+post;allenai_scispacy;604e909dbebea5e8a520788d2076a201f3d826bd;Charles Tapley Hoyt <cthoyt@gmail.com>;1754340211;"Update scispacy/candidate_generation.py
+
+Co-authored-by: Daniel King <43149077+dakinggg@users.noreply.github.com>";2025-08-04 20:43:31;2025-08
+post;allenai_scispacy;dad3be3276b798006e0e1c19c75a4ff205dd8494;Charles Tapley Hoyt <cthoyt@gmail.com>;1754340219;"Update scispacy/candidate_generation.py
+
+Co-authored-by: Daniel King <43149077+dakinggg@users.noreply.github.com>";2025-08-04 20:43:39;2025-08
+post;allenai_scispacy;3814bade1c757a396fbb5d625062ea9efef132c7;Charles Tapley Hoyt <cthoyt@gmail.com>;1754340234;"Update scispacy/candidate_generation.py
+
+Co-authored-by: Daniel King <43149077+dakinggg@users.noreply.github.com>";2025-08-04 20:43:54;2025-08
+post;allenai_scispacy;d863b696333c20ffcdd5fc7f09a525745b8e0d2e;Charles Tapley Hoyt <cthoyt@gmail.com>;1754343226;"Upgrade from setup.py to pyproject.toml
+";2025-08-04 21:33:46;2025-08
+pre;clawpack_pyclaw;42b47145b961e8bdfc2aad5ae6baa55f57d2a029;ngam <67342040+ngam@users.noreply.github.com>;1667797571;change getargspec to getfullargspec;2022-11-07 05:06:11;2022-11
+pre;clawpack_pyclaw;d86edac8a80ef0a6130e598deda590b92f39c0f5;Kyle Mandli <kyle.Mandli@gmail.com>;1667849691;"Merge pull request #694 from ngam/py311
+
+change getargspec to getfullargspec to support python 3.11";2022-11-07 19:34:51;2022-11
+pre;clawpack_pyclaw;09802b287d9ede9abcd47b6a372b2515c71cfd9d;David Ketcheson <dketch@gmail.com>;1668012246;"Remove some obsolete instructions from the README.
+";2022-11-09 16:44:06;2022-11
+pre;clawpack_pyclaw;07ebb8019c9a85d6a142c9215717203128f970a1;David Ketcheson <dketch@gmail.com>;1668430153;"Merge pull request #696 from clawpack/remove_old_readme_material
+
+Remove some obsolete instructions from the README.";2022-11-14 12:49:13;2022-11
+pre;clawpack_pyclaw;ce10aed040feb0b51d63a0b9ec56de0283df02e1;David Ketcheson <dketch@gmail.com>;1670577078;"Use fortran ordering for q array when reading ascii files.
+";2022-12-09 09:11:18;2022-12
+pre;clawpack_pyclaw;9491eb70ceefe41fe4fba916b38a26530f7efe7d;David Ketcheson <dketch@gmail.com>;1670764260;"Fix some issues with reading of output from petclaw.
+
+When using PetClaw, there is no fort.txxxx file.
+The file format identifier we use is 'petsc', but at a lower
+level it must be set to 'binary'.
+";2022-12-11 13:11:00;2022-12
+pre;clawpack_pyclaw;780d1cce0c05caa8ec3d05d9e8aecdfdd32d555d;David Ketcheson <dketch@gmail.com>;1670781734;"Merge pull request #697 from ketch/fortran_order
+
+Use fortran ordering for q array when reading ascii files.";2022-12-11 18:02:14;2022-12
+pre;clawpack_pyclaw;858498a9e2e2876519d4544bae4020675c0283e0;Kyle Mandli <kyle.Mandli@gmail.com>;1670798165;"Merge pull request #698 from ketch/petsc_file_reading
+
+Fix some issues with reading of output from petclaw.";2022-12-11 22:36:05;2022-12
+pre;clawpack_pyclaw;72bc2150ca8d629879524d92f70aa3c83284e372;David Ketcheson <dketch@gmail.com>;1679200616;"correct docstring for Controller.out_times.  Resolves 699.
+";2023-03-19 04:36:56;2023-03
+pre;clawpack_pyclaw;6323b7295b80f33285b958b1a2144f88f51be4b1;David Ketcheson <dketch@gmail.com>;1679378901;"Merge pull request #700 from ketch/fix_out_times_doc
+
+Correct docstring for Controller.out_times. ";2023-03-21 06:08:21;2023-03
+post;clawpack_pyclaw;53766ffc914195f798da0560bebf8f1158105311;Randy LeVeque <rjl@uw.edu>;1693584226;"replace imp by importlib
+
+imp will be removed in Python 3.12
+";2023-09-01 16:03:46;2023-09
+post;clawpack_pyclaw;08c4c6735f5d79e5ee5d8b0a9eba3a4926842d27;David Ketcheson <dketch@gmail.com>;1693978916;"Merge pull request #701 from rjleveque/importlib
+
+replace imp by importlib";2023-09-06 05:41:56;2023-09
+post;clawpack_pyclaw;d572d19d0a2ba24fdbcaaa6f25abc86e6da59319;damian san roman alerigi <damiansra@gmail.com>;1694510053;"Merge branch 'clawpack:master' into dev-poly
+";2023-09-12 09:14:13;2023-09
+post;clawpack_pyclaw;7bfc919da579d5e25d26ab53c87cf3e3e21dcd73;carlosmunozmoncayo <carlos.munozmoncayo@kaust.edu.sa>;1694518463;"Fix bug before step function not being called
+
+The function solver.before_step was not being called before each RK stage
+when solver.time_integrator='RK' and
+solver.call_before_step_each_stage=True. The bug is fixed in this
+commit.
+solver._registers[i].t is now updated earlier in case the before_step
+function depends on t.
+";2023-09-12 11:34:23;2023-09
+post;clawpack_pyclaw;6e60c75cd050d813ed30c83f6ba2dc034e3708b4;David Ketcheson <dketch@gmail.com>;1694805262;"Merge pull request #702 from carlosmunozmoncayo/fix_bug_before_stage_RK
+
+Fix bug before step function not being called";2023-09-15 19:14:22;2023-09
+post;clawpack_pyclaw;8b7ad7dba16704356cdea9e5b7d9008fdc4f062f;damian san roman alerigi <damiansra@gmail.com>;1695041555;"Merge branch 'clawpack:master' into dev-poly
+";2023-09-18 12:52:35;2023-09
+post;clawpack_pyclaw;d129c5b8e558c11d4c2001f592fa96d4f1618c3b;damian <damiansra@gmail.com>;1695187334;"fixed read issues in test_sedov_and_hdf.
+removed typo in  line 21 and  set verify_dir to the correct location.
+added file_prefix=claw to  method calls in lines 25 and 31
+";2023-09-20 05:22:14;2023-09
+post;clawpack_pyclaw;d346bcd8303c10f9bb8f63e01fe498787ae4d2a0;David Ketcheson <dketch@gmail.com>;1695475561;"Merge pull request #704 from sanromd/fix_sedov_test
+
+fixed read issues in test_sedov_and_hdf.";2023-09-23 13:26:01;2023-09
+post;clawpack_pyclaw;0383ab907c9946da8ad6b9a4f8a5862b12d34dc3;David Ketcheson <dketch@gmail.com>;1696470046;"Give a more helpful error message if petsc4py is not installed.
+";2023-10-05 01:40:46;2023-10
+post;clawpack_pyclaw;4fd56989e0583dba50f7a3bb96e8615b20a94f05;David Ketcheson <dketch@gmail.com>;1696517080;"Merge pull request #705 from ketch/petsc_reading_error_message
+
+Give a more helpful error message if petsc4py is not installed.";2023-10-05 14:44:40;2023-10
+pre;isce-framework_isce2;674ba667969bc1627a5409e2b1052c94971f3f74;Bryan Marfito <bjmarfito@yahoo.com>;1691572914;Update runDispersive.py;2023-08-09 09:21:54;2023-08
+pre;isce-framework_isce2;21ece6e9e71613b8101b7f9c1ab0ff1d4aeb2281;Bryan Marfito <bjmarfito@yahoo.com>;1691630793;Update runDispersive.py;2023-08-10 01:26:33;2023-08
+pre;isce-framework_isce2;236ae8c8f35a92277d7f402bc80d23fdbc9c32a7;Bryan Marfito <bjmarfito@yahoo.com>;1691630841;Update estimateIono.py;2023-08-10 01:27:21;2023-08
+pre;isce-framework_isce2;6599e36a24e6860c012ce7904c379b8eb7853565;Eric Fielding <EJFielding@users.noreply.github.com>;1693790089;"Merge branch 'isce-framework:main' into main
+";2023-09-04 01:14:49;2023-09
+pre;isce-framework_isce2;af55155cd8778f783508dff9af3ed2442f8f2ea5;Lijun Zhu <ljzhu@gps.caltech.edu>;1693955621;"temporary fix for gpu geo2rdr and topo out of memory issue
+";2023-09-05 23:13:41;2023-09
+pre;isce-framework_isce2;1b352372bc24b927f999c2094dd0bd45a35e324e;Bryan Marfito <bjmarfito@yahoo.com>;1694316586;Use default values instead of using DOPIQ for unpackFrame_ROIPAC_raw.py;2023-09-10 03:29:46;2023-09
+pre;isce-framework_isce2;49269d7f4f5620a767dc3ea930611fd83ca0d239;Bryan Marfito <bjmarfito@yahoo.com>;1694317040;Removed unused libraries;2023-09-10 03:37:20;2023-09
+pre;isce-framework_isce2;e4b56067586d597adb0c1103940f439b8caeb562;Jun-Yan C <james15156@gmail.com>;1695704108;"add csk gen2 support
+";2023-09-26 04:55:08;2023-09
+pre;isce-framework_isce2;abce54ef29eacd603adb9fb2b9b1fcdf5f17aa8f;Jun-Yan C <james15156@gmail.com>;1695704934;"modify compiling function list
+";2023-09-26 05:08:54;2023-09
+pre;isce-framework_isce2;b4c11a965c272d29b161fa2cd6849db13ffbda95;Jun-Yan C <james15156@gmail.com>;1695704979;"add unpack function for csk gen2
+";2023-09-26 05:09:39;2023-09
+post;isce-framework_isce2;3a4fa40bd7e9e72966e77bcc63efda2bb43ed453;Lijun Zhu <ljzhu@gps.caltech.edu>;1702773720;"pycuampcor: deallocate memory objects
+";2023-12-17 00:42:00;2023-12
+post;isce-framework_isce2;03d7791ddea87f34216db7e4d69d0894d66a24a8;Lijun Zhu <38738201+lijun99@users.noreply.github.com>;1702931851;"temporary fix for gpu geo2rdr and topo out of memory issue (#799)
+
+Co-authored-by: Lijun Zhu <ljzhu@gps.caltech.edu>";2023-12-18 20:37:31;2023-12
+post;isce-framework_isce2;2c68dd1dd42ec41c3068aaabc7257f281ec4048d;Bryan Marfito <bjmarfito@yahoo.com>;1703194680;"Changed mlab.griddata to scipy.interpolate.griddata  (#753)
+
+";2023-12-21 21:38:00;2023-12
+post;isce-framework_isce2;15ac4f0fd0603cb0bcc5bc72309362527c0a1d59;Ryan Burns <rtburns@jpl.nasa.gov>;1703195137;"Merge pull request #656 from sssangha/sss_ampcorfix
+
+Introduce module import check";2023-12-21 21:45:37;2023-12
+post;isce-framework_isce2;cf118c1241b983827560d8c5d3234e23a7dbfba1;Eric Fielding <EJFielding@users.noreply.github.com>;1703195187;"minor update alosStack_tutorial (#720)
+
+";2023-12-21 21:46:27;2023-12
+post;isce-framework_isce2;75df90995392762d40add204468e4ff13b83a093;Ryan Burns <rtburns@jpl.nasa.gov>;1703791547;"Duplicate fortran functions that require polymorphism
+";2023-12-28 19:25:47;2023-12
+post;isce-framework_isce2;77af7ed3c1c1bd3934b922c91293e5d3b5b92390;Ryan Burns <rtburns@jpl.nasa.gov>;1703791612;"Remove -fallow-argument-mismatch workaround
+";2023-12-28 19:26:52;2023-12
+post;isce-framework_isce2;e2cce3352bc234de7318329b2fa8984576300ff7;Ryan Burns <rtburns@jpl.nasa.gov>;1703793211;"Merge pull request #441 from rtburns-jpl/gfortran-argument-mismatch
+
+Fix denseoffsetsRead for modern gfortran";2023-12-28 19:53:31;2023-12
+post;isce-framework_isce2;5300f297c3c0ebddcdeaea6d2350fbd47681a35d;Ryan Burns <rtburns@jpl.nasa.gov>;1703804041;"Update fetchOrbit.py for new Copernicus data source
+";2023-12-28 22:54:01;2023-12
+post;isce-framework_isce2;78fb2e5e4422398943822e27214f0ca0c0c969c4;Ryan Burns <rtburns@jpl.nasa.gov>;1703817198;"Remove unnecessary cv2 import
+";2023-12-29 02:33:18;2023-12
+pre;mundialis_actinia_core;3d995303511a11e75720b9405c5f3fcfb117f5a4;huhabla <mo6i98ad>;1531097811;"Added PostGIS export option using v.out.postgis for export
+";2018-07-09 00:56:51;2018-07
+pre;mundialis_actinia_core;5e7a76a007bbffd1e9bbe350b79c3678d19f9617;Anika Bettge <bettge@mundialis.de>;1531467776;"addon-path support added
+";2018-07-13 07:42:56;2018-07
+pre;mundialis_actinia_core;ae45537f553579b12f19fea34b1afeae8e707160;AnikaBettge <37300249+AnikaBettge@users.noreply.github.com>;1531469146;"Merge pull request #2 from AnikaBettge/grass_addon_support
+
+addon-path support added";2018-07-13 08:05:46;2018-07
+pre;mundialis_actinia_core;22f8a370afa59b2d5bb85ef97447abdcb6ea6685;Anika Bettge <bettge@mundialis.de>;1531476256;"GRASS-ADDON suport
+";2018-07-13 10:04:16;2018-07
+pre;mundialis_actinia_core;c6387eebdd8e80b26a22258d5da4e92e2b2a4b0b;Anika Bettge <bettge@mundialis.de>;1531476569;"changing webhook line
+";2018-07-13 10:09:29;2018-07
+pre;mundialis_actinia_core;84bea566441089656c4392c07670aed59517591b;huhabla <mo6i98ad>;1531691245;"Small typo fixes
+";2018-07-15 21:47:25;2018-07
+pre;mundialis_actinia_core;98dcc2192d87249276389517c023620a3590e6ee;Anika Bettge <bettge@mundialis.de>;1531720593;"Merge branch 'master' of https://github.com/mmacata/actinia_core
+";2018-07-16 05:56:33;2018-07
+pre;mundialis_actinia_core;d6b6aba886a9a9304011f7c3ce382704f2ce101b;Anika Bettge <bettge@mundialis.de>;1531720966;"Merge branch 'master' of github.com:mundialis/actinia_core
+";2018-07-16 06:02:46;2018-07
+pre;mundialis_actinia_core;1c15aea9f032441f37ddbfe753bd4fc8e0767b27;AnikaBettge <37300249+AnikaBettge@users.noreply.github.com>;1531731081;"Merge pull request #1 from AnikaBettge/grass_addon_support
+
+GRASS-ADDON support";2018-07-16 08:51:21;2018-07
+pre;mundialis_actinia_core;d8acc315b1e950bbb977a79e95f05b04dc4da07d;Hinrich Paulsen <paulsen@users.noreply.github.com>;1532005283;"Update tutorial_data_access.rst
+
+Fixed some typos.";2018-07-19 13:01:23;2018-07
+post;mundialis_actinia_core;3885cc386a3bd2dbc74998bf402b2d523acf4bf9;Carmen Tawalika <tawalika@mundialis.de>;1538751692;"add logs to process queue
+";2018-10-05 15:01:32;2018-10
+post;mundialis_actinia_core;8f1d6058be0833d231fda29028257014f2d1ac55;Soeren Gebbert <soerengebbert@googlemail.com>;1539092186;"Process queue debugging
+";2018-10-09 13:36:26;2018-10
+post;mundialis_actinia_core;838ef9d5fa6e7d19b406928559f4e1e1e8f960d4;Soeren Gebbert <soerengebbert@googlemail.com>;1539107756;"Process queue debugging
+";2018-10-09 17:55:56;2018-10
+post;mundialis_actinia_core;262bdd4c44fe72d49d0c77f3b85e109d15334acc;Soeren Gebbert <soerengebbert@googlemail.com>;1539191703;"Process queue debugging
+";2018-10-10 17:15:03;2018-10
+post;mundialis_actinia_core;ed1501396e2faf7746050f5a67f83898f41dbf5e;Markus Neteler <neteler@mundialis.de>;1541067433;"Initial CONTRIBUTING.md file added
+";2018-11-01 10:17:13;2018-11
+post;mundialis_actinia_core;9730f22126b2ff39f88475221c4b184b9cc920ed;Marc Jansen <jansen@terrestris.de>;1541136671;"WIP Add file headers for GPLv3
+";2018-11-02 05:31:11;2018-11
+post;mundialis_actinia_core;a07a835902bcba8faf6272968a33a0a3996d93db;Marc Jansen <jansen@terrestris.de>;1541136984;"Fix email typo
+";2018-11-02 05:36:24;2018-11
+post;mundialis_actinia_core;ed1c1b60f93640d845607b612af208b1024f38fb;Marc Jansen <jansen@terrestris.de>;1541137089;"Add missing authors
+
+See https://github.com/mundialis/actinia_core/graphs/contributors
+";2018-11-02 05:38:09;2018-11
+post;mundialis_actinia_core;4d2290e9d54dbdd5ca4dcf33cce11da291c8aa61;Marc Jansen <jansen@terrestris.de>;1541138196;"Add link to Actinia website
+";2018-11-02 05:56:36;2018-11
+post;mundialis_actinia_core;ee7e873f880a2db47bad325726fe430145a75655;Marc Jansen <jansen@terrestris.de>;1541138213;"Use markdown format for README and add links
+";2018-11-02 05:56:53;2018-11
+pre;unidata_netcdf-cxx4;ff0b3d9eb1406c5aef8fc1f3c3c22070d54df1ba;Ed Hartnett <ed@unidata.ucar.edu>;1316715931;"fixed ncxx4-config
+";2011-09-22 18:25:31;2011-09
+pre;unidata_netcdf-cxx4;25aab521bfa83d7524506bd89a4864dc1ed53482;Ed Hartnett <ed@unidata.ucar.edu>;1316716747;"don't allow build without netcdf-4
+";2011-09-22 18:39:07;2011-09
+pre;unidata_netcdf-cxx4;620858025fbeea877c01dfc82f83e5f23a8ffce9;Ed Hartnett <ed@unidata.ucar.edu>;1316778574;"added pkgconfig file
+";2011-09-23 11:49:34;2011-09
+pre;unidata_netcdf-cxx4;7c4b66577565d59300429d03a25fc82e4012ed88;Ed Hartnett <ed@unidata.ucar.edu>;1316778606;"bumped version to beta5
+";2011-09-23 11:50:06;2011-09
+pre;unidata_netcdf-cxx4;3658afb48f4e0928e504c4b384039c80ecd39260;Ed Hartnett <ed@unidata.ucar.edu>;1316778640;"bumped version to rc1
+";2011-09-23 11:50:40;2011-09
+pre;unidata_netcdf-cxx4;19a64289797dd3e182fde0258cef37797605b538;Ed Hartnett <ed@unidata.ucar.edu>;1317028979;"fixed library output in ncxx4-config
+";2011-09-26 09:22:59;2011-09
+pre;unidata_netcdf-cxx4;3af0dac7dc43b3545cd66bfe5e7a5de0cde5d0f0;Ed Hartnett <ed@unidata.ucar.edu>;1317029038;"changed version
+";2011-09-26 09:23:58;2011-09
+pre;unidata_netcdf-cxx4;22f5cacaf5ac362e2fc1ed1fe81a282f74b4dd5c;Ed Hartnett <ed@unidata.ucar.edu>;1317392775;"changed version number
+";2011-09-30 14:26:15;2011-09
+pre;unidata_netcdf-cxx4;6cf0f29c49f2771a674257c9f0f8807f1c61734a;Ed Hartnett <ed@unidata.ucar.edu>;1317661317;"released
+";2011-10-03 17:01:57;2011-10
+pre;unidata_netcdf-cxx4;a9387d320cda67b5104c3606e97e04d57a80868d;Russ Rew <russ@unidata.ucar.edu>;1346181216;"Implement missing constructor NcCompoundType(const NcType& ncType), fixes Jira issue NCXXF-8
+";2012-08-28 19:13:36;2012-08
+post;unidata_netcdf-cxx4;2396bf72e6bd6ef636bf2d0de5dae628d9ea12b8;Ward Fisher <wfisher@unidata.ucar.edu>;1375901149;"Added m4 directory; this will supress a warning otherwise thrown by 'autoreconf -i -f'.
+";2013-08-07 18:45:49;2013-08
+post;unidata_netcdf-cxx4;b5aa05511c3cf7466f13404fc0a472b0bd61fac9;Ward Fisher <wfisher@unidata.ucar.edu>;1377620949;"Added autoconf files for distribution.
+";2013-08-27 16:29:09;2013-08
+post;unidata_netcdf-cxx4;cafb07f1e2f888314fe7f1f6c1e5752552b25c0b;Ward Fisher <wfisher@unidata.ucar.edu>;1377621131;"Updated version in configure.ac to reflect new release.
+";2013-08-27 16:32:11;2013-08
+post;unidata_netcdf-cxx4;e37aee4a4ba4063d298d3cf73c23fa8b6f0aeabd;Russ Rew <rew66@comcast.net>;1385156122;Create README.md;2013-11-22 21:35:22;2013-11
+post;unidata_netcdf-cxx4;08fea74fbd3188f47e9afca3cd6c8129f48fdb45;Russ Rew <russ@unidata.ucar.edu>;1385156355;"Minor mods to markdown.
+";2013-11-22 21:39:15;2013-11
+post;unidata_netcdf-cxx4;536420315279881f5950cf969a245db3f761c1b3;Russ Rew <russ@unidata.ucar.edu>;1385156791;"Fix typos in README
+";2013-11-22 21:46:31;2013-11
+post;unidata_netcdf-cxx4;a770fb35095d18921cbcc6318e96984634cd4c71;Ward Fisher <wfisher@unidata.ucar.edu>;1385157044;Removed typo.;2013-11-22 21:50:44;2013-11
+post;unidata_netcdf-cxx4;127ff3609582376f1041ac48762979ebbc3fa8be;Jarle Ladstein <jarle.ladstein@sintef.no>;1386345099;"NcException: changed member variables to std::string*
+";2013-12-06 15:51:39;2013-12
+post;unidata_netcdf-cxx4;5df2918300c82958296d84f8039cb59d26a3b71c;Jarle Ladstein <jarle.ladstein@sintef.no>;1386596042;"Replaced several bitwise OR with logical OR
+";2013-12-09 13:34:02;2013-12
+post;unidata_netcdf-cxx4;f5b18947d65da4403b33b7c7e4be62e8283bc625;Jarle Ladstein <jarle.ladstein@sintef.no>;1386605740;"Made ncCheck argument file 'const char*'
+";2013-12-09 16:15:40;2013-12
+pre;astro-informatics_ssht;d88ec303c13619b5665b9cf50b61278612e8bd6d;Aron Ahmadia <aron@ahmadia.net>;1271074448;"a few suggested revisions
+";2010-04-12 12:14:08;2010-04
+pre;astro-informatics_ssht;d88ec303c13619b5665b9cf50b61278612e8bd6d;Aron Ahmadia <aron@ahmadia.net>;1271074448;"a few suggested revisions
+";2010-04-12 12:14:08;2010-04
+pre;astro-informatics_ssht;fd9c9905831b006c94f56855e60f50571b240ac6;Matt Knepley <knepley@gmail.com>;1271725004;"Added a very simple driver
+";2010-04-20 00:56:44;2010-04
+pre;astro-informatics_ssht;fd9c9905831b006c94f56855e60f50571b240ac6;Matt Knepley <knepley@gmail.com>;1271725004;"Added a very simple driver
+";2010-04-20 00:56:44;2010-04
+pre;astro-informatics_ssht;36a9cefdf2967d98bfe8d3524fff7eb9ba17ede0;Matt Knepley <knepley@gmail.com>;1271725063;"Asking for help
+";2010-04-20 00:57:43;2010-04
+pre;astro-informatics_ssht;36a9cefdf2967d98bfe8d3524fff7eb9ba17ede0;Matt Knepley <knepley@gmail.com>;1271725063;"Asking for help
+";2010-04-20 00:57:43;2010-04
+pre;astro-informatics_ssht;b38a005a138af427f2bdc0069c13fcc35eba1f40;Matt Knepley <knepley@gmail.com>;1271725746;"Merge
+";2010-04-20 01:09:06;2010-04
+pre;astro-informatics_ssht;b38a005a138af427f2bdc0069c13fcc35eba1f40;Matt Knepley <knepley@gmail.com>;1271725746;"Merge
+";2010-04-20 01:09:06;2010-04
+pre;astro-informatics_ssht;db88de0f15cfcf4791eaf1268e7ceb7485f1c589;Kyle Mandli <mandli@amath.washington.edu>;1272301888;"Added point wise Riemann solver test and explanation
+";2010-04-26 17:11:28;2010-04
+pre;astro-informatics_ssht;db88de0f15cfcf4791eaf1268e7ceb7485f1c589;Kyle Mandli <mandli@amath.washington.edu>;1272301888;"Added point wise Riemann solver test and explanation
+";2010-04-26 17:11:28;2010-04
+post;astro-informatics_ssht;c50c5cbcd332531a6a8f98baee2ec038845b2d27;Amal <amal.ghamdi@kaust.edu.sa>;1276966660;"adding example for python wrapper for main.f90
+";2010-06-19 16:57:40;2010-06
+post;astro-informatics_ssht;c50c5cbcd332531a6a8f98baee2ec038845b2d27;Amal <amal.ghamdi@kaust.edu.sa>;1276966660;"adding example for python wrapper for main.f90
+";2010-06-19 16:57:40;2010-06
+post;astro-informatics_ssht;543d552a555d3090751d12d219d7ae23af3e6cf4;Amal <amal.ghamdi@kaust.edu.sa>;1277690334;"python wrapper for Riemann solver example
+";2010-06-28 01:58:54;2010-06
+post;astro-informatics_ssht;543d552a555d3090751d12d219d7ae23af3e6cf4;Amal <amal.ghamdi@kaust.edu.sa>;1277690334;"python wrapper for Riemann solver example
+";2010-06-28 01:58:54;2010-06
+post;astro-informatics_ssht;19f27994bf2cba5c17d4b5444affc6009472fc12;David Ketcheson <dketch@gmail.com>;1281785397;"Add advect.py script for Aron to Petscify.
+";2010-08-14 11:29:57;2010-08
+post;astro-informatics_ssht;19f27994bf2cba5c17d4b5444affc6009472fc12;David Ketcheson <dketch@gmail.com>;1281785397;"Add advect.py script for Aron to Petscify.
+";2010-08-14 11:29:57;2010-08
+post;astro-informatics_ssht;dad937db543aad9ae74aa590f77ac4c0cf9dffc8;David Ketcheson <dketch@gmail.com>;1281785471;"Rename u to q in advect.py.
+";2010-08-14 11:31:11;2010-08
+post;astro-informatics_ssht;dad937db543aad9ae74aa590f77ac4c0cf9dffc8;David Ketcheson <dketch@gmail.com>;1281785471;"Rename u to q in advect.py.
+";2010-08-14 11:31:11;2010-08
+post;astro-informatics_ssht;91378cee4abd9809bdfb5b13269f6bdec488d045;Aron Ahmadia <aron@ahmadia.net>;1282488569;"advect.py is PETSc-ified.  advect_annotated.py contains more detailed notes
+";2010-08-22 14:49:29;2010-08
+post;astro-informatics_ssht;91378cee4abd9809bdfb5b13269f6bdec488d045;Aron Ahmadia <aron@ahmadia.net>;1282488569;"advect.py is PETSc-ified.  advect_annotated.py contains more detailed notes
+";2010-08-22 14:49:29;2010-08
